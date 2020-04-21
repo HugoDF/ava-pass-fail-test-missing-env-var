@@ -1,10 +1,12 @@
 {
   "private": true,
   "scripts": {
+    "test": "ava",
     "lint": "xo .",
     "format": "xo . --fix"
   },
   "devDependencies": {
+    "ava": "^3.7.1",
     "xo": "latest"
   },
   "xo": {
