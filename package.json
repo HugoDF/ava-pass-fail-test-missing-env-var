@@ -2,6 +2,7 @@
   "private": true,
   "scripts": {
     "test": "ava",
+    "fail": "REQUIRED_ENV_VARIABLE=here ava",
     "lint": "xo .",
     "format": "xo . --fix"
   },
