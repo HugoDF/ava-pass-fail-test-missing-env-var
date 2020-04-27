@@ -7,7 +7,7 @@
     "format": "xo . --fix"
   },
   "devDependencies": {
-    "ava": "^3.7.1",
+    "ava": "^3.8.0",
     "xo": "latest"
   },
   "xo": {
